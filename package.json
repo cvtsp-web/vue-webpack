@@ -1,6 +1,6 @@
 {
-  "name": "vue-webpack",
-  "version": "1.0.2",
+  "name": "vue-builds",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "bin": {

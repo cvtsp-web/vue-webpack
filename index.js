@@ -43,6 +43,8 @@ function install_cnpm() {
             }
             loading.succeed();
             resolve();
+        }else {
+            resolve();
         }
     })
 }
