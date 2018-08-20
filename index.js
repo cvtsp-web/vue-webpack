@@ -20,8 +20,7 @@ exports.init = function(config) {
     utils.copyPlugins(tplDirectory, resolveApp(''));
     loading.succeed();
     install_cnpm()
-    .then(install_alldependencies);
-    
+    .then(install_alldependencies);  
 }
 
 /**

@@ -13,6 +13,6 @@
     "vue": "^2.5.17"
   },
   "devDependencies": {
-    "vue-webpack-groups": "^1.0.4"
+    "vue-webpack-groups": "^1.0.8"
   }
 }
